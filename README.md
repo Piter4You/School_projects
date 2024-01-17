@@ -21,3 +21,15 @@ An mobile app designed to help users keep track of their daily tasks. Users can 
   - Add new tasks with details.
   - Mark tasks as finished.
   - Delete tasks.
+
+## Car app
+Desktop app where you can store basic information about cars. You can wrtie in, save in jason file and open from jason file.
+
+### How to use:
+  - Type in details about the car.
+  - Add it to the list.
+  - Save the list to a JSON file.
+  - Open the list from a JSON file.
+
+
+
