@@ -16,7 +16,7 @@ A remake of the popular game "Minesweeper," where the player needs to mark every
   - Use numbers to deduce bomb locations.
 
 ## To do list
-An app designed to help users keep track of their daily tasks. Users can add notes for tasks, mark them as finished, or delete them.
+An mobile app designed to help users keep track of their daily tasks. Users can add notes for tasks, mark them as finished, or delete them.
 ### How to use:
   - Add new tasks with details.
   - Mark tasks as finished.
