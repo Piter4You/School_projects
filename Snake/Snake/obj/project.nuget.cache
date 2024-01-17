@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ox3jViump8T936kvW9BJqzxKRvbXOJrEW+pn1XGZwcp+uZtNZyZ8G3PgYZc0dSxQlZVPBTruy39IYrH9RmT8zQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Piotrek\\Desktop\\Snake\\Snake\\Snake\\Snake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Piotrek\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Piotrek\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Piotrek\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Piotrek\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Piotrek\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

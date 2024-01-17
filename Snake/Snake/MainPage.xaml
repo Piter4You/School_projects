@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Snake.MainPage"
+             xmlns:local ="clr-namespace:Snake">
+
+    <ContentPage.Resources>
+        <Style TargetType="{x:Type local:Snake}">
+            <Setter Property="BackgroundColor" Value="Green"/>
+        </Style>
+        <Style TargetType="{x:Type local:Apple}">
+            <Setter Property="Text" Value="🍎"/>
+            <Setter Property="TextColor" Value="Red"/>
+            <Setter Property="FontSize" Value="30"/>
+        </Style>
+    </ContentPage.Resources>
+
+    <AbsoluteLayout x:Name="layout">
+        <AbsoluteLayout.GestureRecognizers>
+            <SwipeGestureRecognizer Direction="Up" Swiped="Up_Swiped"/>
+            <SwipeGestureRecognizer Direction="Down" Swiped="Down_Swiped"/>
+            <SwipeGestureRecognizer Direction="Left" Swiped="Left_Swiped"/>
+            <SwipeGestureRecognizer Direction="Right" Swiped="Right_Swiped"/>
+        </AbsoluteLayout.GestureRecognizers>
+        <StackLayout Orientation="Horizontal" AbsoluteLayout.LayoutBounds="0,0,100,50" AbsoluteLayout.LayoutFlags="PositionProportional">
+            <Label Text="Wynik: " FontSize="Large"/>
+            <Label x:Name = "Wynik" Text="0" FontSize="Large"/>
+        </StackLayout>
+    </AbsoluteLayout>
+
+</ContentPage>

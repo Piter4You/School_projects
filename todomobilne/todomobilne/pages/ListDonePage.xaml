@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="todomobilne.pages.ListDonePage"
+             Title="Lista ukończonych zadań">
+    <ContentPage.Content>
+        <ListView x:Name="eventsItemListView" ItemSelected="eventsItemListView_ItemSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.ContextActions>
+                            <MenuItem Text="Przywróć" CommandParameter="{Binding .}" Clicked="MenuItem_ClickedReturn"/>
+                            <MenuItem Text="Usuń" CommandParameter="{Binding .}" Clicked="MenuItem_ClickedDelete"/>
+                        </ViewCell.ContextActions>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="{Binding Subject}" FontSize="Large"/>
+                            <Label Text="{Binding Id}" FontSize="Large"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="todomobilne.pages.AddEditItem"
+             x:Name="AddEditPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="hiddenId" IsVisible="false"/>
+            <Entry x:Name="subjectEntry" Keyboard="Text" ReturnType="Next" Placeholder="tu wpisz temat"/>
+            <Editor x:Name="infoEditor" Keyboard="Text" AutoSize="TextChanges"/>
+            <Button x:Name="button" Text="Zatwierdź" Clicked="button_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
