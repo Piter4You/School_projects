@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Piotrek\\Desktop\\Snake\\Snake\\Snake.Android\\Snake.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Piotrek\\Desktop\\School Projects\\Snake\\Snake.Android\\Snake.Android.csproj",
       "projectName": "Snake.Android",
-      "projectPath": "C:\\Users\\Piotrek\\Desktop\\Snake\\Snake\\Snake.Android\\Snake.Android.csproj",
+      "projectPath": "C:\\Users\\Piotrek\\Desktop\\School Projects\\Snake\\Snake.Android\\Snake.Android.csproj",
       "packagesPath": "C:\\Users\\Piotrek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Piotrek\\Desktop\\Snake\\Snake\\Snake.Android\\obj\\",
+      "outputPath": "C:\\Users\\Piotrek\\Desktop\\School Projects\\Snake\\Snake.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "C:\\Users\\Piotrek\\Desktop\\Snake\\Snake\\Snake\\Snake.csproj": {
-              "projectPath": "C:\\Users\\Piotrek\\Desktop\\Snake\\Snake\\Snake\\Snake.csproj"
+            "C:\\Users\\Piotrek\\Desktop\\School Projects\\Snake\\Snake\\Snake.csproj": {
+              "projectPath": "C:\\Users\\Piotrek\\Desktop\\School Projects\\Snake\\Snake\\Snake.csproj"
             }
           }
         }

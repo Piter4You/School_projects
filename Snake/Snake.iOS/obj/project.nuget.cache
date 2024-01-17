@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WGvM1ge8CdnatGSU3r9crSe3+Sbt8WWp3KUb1+NWglzfOFpCxnNtqeEBLyudpNLpJCCLhrIVyOqC3yXlOWqjDQ==",
+  "dgSpecHash": "Os4dliPn92DVO4IVNVkd259tRoBSAx4HZPr07hL6z4Ob/uQyM+BIXSQ+YUZmAsRBsMtlD7QGmc98r22UhVCfTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Piotrek\\Desktop\\Snake\\Snake\\Snake.iOS\\Snake.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Piotrek\\Desktop\\School Projects\\Snake\\Snake.iOS\\Snake.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Piotrek\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Piotrek\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",

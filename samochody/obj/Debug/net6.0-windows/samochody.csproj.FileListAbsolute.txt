@@ -1,0 +1,42 @@
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\bin\Debug\net6.0-windows\samochody.exe
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\bin\Debug\net6.0-windows\samochody.deps.json
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\bin\Debug\net6.0-windows\samochody.runtimeconfig.json
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\bin\Debug\net6.0-windows\samochody.dll
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\bin\Debug\net6.0-windows\samochody.pdb
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\obj\Debug\net6.0-windows\samochody_MarkupCompile.cache
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\obj\Debug\net6.0-windows\samochody_MarkupCompile.lref
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\obj\Debug\net6.0-windows\samochody.g.resources
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\obj\Debug\net6.0-windows\samochody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\obj\Debug\net6.0-windows\samochody.AssemblyInfoInputs.cache
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\obj\Debug\net6.0-windows\samochody.AssemblyInfo.cs
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\obj\Debug\net6.0-windows\samochody.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\obj\Debug\net6.0-windows\samochody.sourcelink.json
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\obj\Debug\net6.0-windows\samochody.dll
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\obj\Debug\net6.0-windows\refint\samochody.dll
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\obj\Debug\net6.0-windows\samochody.pdb
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\obj\Debug\net6.0-windows\samochody.genruntimeconfig.cache
+C:\Users\Piotrek\Documents\GitHub\programy_tad\samochody\obj\Debug\net6.0-windows\ref\samochody.dll
+C:\Users\Piotrek\Desktop\School Projects\samochody\bin\Debug\net6.0-windows\samochody.exe
+C:\Users\Piotrek\Desktop\School Projects\samochody\bin\Debug\net6.0-windows\samochody.deps.json
+C:\Users\Piotrek\Desktop\School Projects\samochody\bin\Debug\net6.0-windows\samochody.runtimeconfig.json
+C:\Users\Piotrek\Desktop\School Projects\samochody\bin\Debug\net6.0-windows\samochody.dll
+C:\Users\Piotrek\Desktop\School Projects\samochody\bin\Debug\net6.0-windows\samochody.pdb
+C:\Users\Piotrek\Desktop\School Projects\samochody\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Piotrek\Desktop\School Projects\samochody\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Piotrek\Desktop\School Projects\samochody\obj\Debug\net6.0-windows\samochody_MarkupCompile.cache
+C:\Users\Piotrek\Desktop\School Projects\samochody\obj\Debug\net6.0-windows\samochody_MarkupCompile.lref
+C:\Users\Piotrek\Desktop\School Projects\samochody\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Piotrek\Desktop\School Projects\samochody\obj\Debug\net6.0-windows\samochody.g.resources
+C:\Users\Piotrek\Desktop\School Projects\samochody\obj\Debug\net6.0-windows\samochody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotrek\Desktop\School Projects\samochody\obj\Debug\net6.0-windows\samochody.AssemblyInfoInputs.cache
+C:\Users\Piotrek\Desktop\School Projects\samochody\obj\Debug\net6.0-windows\samochody.AssemblyInfo.cs
+C:\Users\Piotrek\Desktop\School Projects\samochody\obj\Debug\net6.0-windows\samochody.csproj.CoreCompileInputs.cache
+C:\Users\Piotrek\Desktop\School Projects\samochody\obj\Debug\net6.0-windows\samochody.sourcelink.json
+C:\Users\Piotrek\Desktop\School Projects\samochody\obj\Debug\net6.0-windows\samochody.dll
+C:\Users\Piotrek\Desktop\School Projects\samochody\obj\Debug\net6.0-windows\refint\samochody.dll
+C:\Users\Piotrek\Desktop\School Projects\samochody\obj\Debug\net6.0-windows\samochody.pdb
+C:\Users\Piotrek\Desktop\School Projects\samochody\obj\Debug\net6.0-windows\samochody.genruntimeconfig.cache
+C:\Users\Piotrek\Desktop\School Projects\samochody\obj\Debug\net6.0-windows\ref\samochody.dll

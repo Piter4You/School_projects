@@ -25,11 +25,11 @@ androidgeneratejnimarshalmethods=false
 os=windows_nt
 androidincludedebugsymbols=false
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=638411088111663930
+_nugetassetstimestamp=638411143910876021
 typemapkind=mvid
 androidsupportedabis=arm64-v8a
 armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
-projectfullpath=c:\users\piotrek\desktop\snake\snake\snake.android\snake.android.csproj
+projectfullpath=c:\users\piotrek\desktop\school projects\snake\snake.android\snake.android.csproj

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AljT2khLldW7rUsLh23NZnuztH6qZ86GYkKSqQnCcZ+SeXz4AV49SfkCsrOfjj/Tg8DyGa1pszwTg8agvthgUQ==",
+  "dgSpecHash": "QFUUyekhQbbqg4FT6+A7WVQO/II8Ew8mGbfROF3heL23pCj2LqYJiUmSDIeopH5ptURt3IQlSqWXAdvcISlR2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Piotrek\\Desktop\\Snake\\Snake\\Snake.Android\\Snake.Android.csproj",
+  "projectFilePath": "C:\\Users\\Piotrek\\Desktop\\School Projects\\Snake\\Snake.Android\\Snake.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Piotrek\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\Piotrek\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

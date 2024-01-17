@@ -1253,11 +1253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Piotrek\\Desktop\\Snake\\Snake\\Snake.iOS\\Snake.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Piotrek\\Desktop\\School Projects\\Snake\\Snake.iOS\\Snake.iOS.csproj",
       "projectName": "Snake.iOS",
-      "projectPath": "C:\\Users\\Piotrek\\Desktop\\Snake\\Snake\\Snake.iOS\\Snake.iOS.csproj",
+      "projectPath": "C:\\Users\\Piotrek\\Desktop\\School Projects\\Snake\\Snake.iOS\\Snake.iOS.csproj",
       "packagesPath": "C:\\Users\\Piotrek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Piotrek\\Desktop\\Snake\\Snake\\Snake.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Piotrek\\Desktop\\School Projects\\Snake\\Snake.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1278,8 +1278,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Piotrek\\Desktop\\Snake\\Snake\\Snake\\Snake.csproj": {
-              "projectPath": "C:\\Users\\Piotrek\\Desktop\\Snake\\Snake\\Snake\\Snake.csproj"
+            "C:\\Users\\Piotrek\\Desktop\\School Projects\\Snake\\Snake\\Snake.csproj": {
+              "projectPath": "C:\\Users\\Piotrek\\Desktop\\School Projects\\Snake\\Snake\\Snake.csproj"
             }
           }
         }

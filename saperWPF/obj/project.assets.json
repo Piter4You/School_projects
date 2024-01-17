@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Piotrek\\Desktop\\Minesweeper_wpf\\saperWPF\\saperWPF.csproj",
+      "projectUniqueName": "C:\\Users\\Piotrek\\Desktop\\School Projects\\saperWPF\\saperWPF.csproj",
       "projectName": "saperWPF",
-      "projectPath": "C:\\Users\\Piotrek\\Desktop\\Minesweeper_wpf\\saperWPF\\saperWPF.csproj",
+      "projectPath": "C:\\Users\\Piotrek\\Desktop\\School Projects\\saperWPF\\saperWPF.csproj",
       "packagesPath": "C:\\Users\\Piotrek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Piotrek\\Desktop\\Minesweeper_wpf\\saperWPF\\obj\\",
+      "outputPath": "C:\\Users\\Piotrek\\Desktop\\School Projects\\saperWPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
